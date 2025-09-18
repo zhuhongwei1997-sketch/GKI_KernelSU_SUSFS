@@ -32,7 +32,7 @@ on:
         type: boolean
         default: true
       use_kpm:
-        description: '是否开启KPM功能?'
+        description: 开启KPM
         required: true
         type: boolean
         default: true
